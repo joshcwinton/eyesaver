@@ -7,6 +7,12 @@ I created this because I've been spending much more time looking at digital devi
 ## Solution
 As a solution, I decided that an independent embedded system would give me a way to remind myself breaks without being distracted. In it's current form, the system starts a 20 minute work timer as soon as it starts up and then gives me a 5 minute break, then loops.
 
+## Components
+- Arduino Uno
+- 128x64 Yellow/Blue SSD1306 I2C Display
+- Jumper cables
+- Power supply
+
 # TODO
 - [ ] Create an enclosure
 - [ ] Add buttons to allow reset/skip

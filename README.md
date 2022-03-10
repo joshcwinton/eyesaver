@@ -12,6 +12,8 @@ As a solution, I decided that an independent embedded system would give me a way
 - 128x64 Yellow/Blue SSD1306 I2C Display
 - Jumper cables
 - Power supply
+- Pushbutton
+- Resistor
 
 # TODO
 - [ ] Create an enclosure

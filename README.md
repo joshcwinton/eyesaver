@@ -15,5 +15,12 @@ As a solution, I decided that an independent embedded system would give me a way
 
 # TODO
 - [ ] Create an enclosure
-- [ ] Add buttons to allow reset/skip
+- [x] Add buttons to allow reset/skip
 - [ ] Add buttons to adjust time increments
+
+# Images
+![Eyesaver-1](https://user-images.githubusercontent.com/29495809/157685391-bc1943bb-8c12-4468-955b-5858590d6cbb.jpg)
+![Eyesaver-2](https://user-images.githubusercontent.com/29495809/157685394-b8d44236-fd27-47e7-b7e5-6470a38f2716.jpg)
+![Eyesaver-3](https://user-images.githubusercontent.com/29495809/157685402-fd51ae0e-cf5a-413b-abbc-dd9213dfeaab.jpg)
+![Eyesaver-4](https://user-images.githubusercontent.com/29495809/157685405-c38eddcc-6278-4c77-98c3-374d4babf71a.jpg)
+![Eyesaver-5](https://user-images.githubusercontent.com/29495809/157685409-0db8e042-30bf-4aab-8d8a-12ed041b9da7.jpg)

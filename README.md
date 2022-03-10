@@ -18,9 +18,15 @@ As a solution, I decided that an independent embedded system would give me a way
 - [x] Add buttons to allow reset/skip
 - [ ] Add buttons to adjust time increments
 
+
 # Images
+## Start of a Work Session
+![Eyesaver-5](https://user-images.githubusercontent.com/29495809/157685409-0db8e042-30bf-4aab-8d8a-12ed041b9da7.jpg)
+
+## Work Countdown
 ![Eyesaver-1](https://user-images.githubusercontent.com/29495809/157685391-bc1943bb-8c12-4468-955b-5858590d6cbb.jpg)
 ![Eyesaver-2](https://user-images.githubusercontent.com/29495809/157685394-b8d44236-fd27-47e7-b7e5-6470a38f2716.jpg)
-![Eyesaver-3](https://user-images.githubusercontent.com/29495809/157685402-fd51ae0e-cf5a-413b-abbc-dd9213dfeaab.jpg)
-![Eyesaver-4](https://user-images.githubusercontent.com/29495809/157685405-c38eddcc-6278-4c77-98c3-374d4babf71a.jpg)
-![Eyesaver-5](https://user-images.githubusercontent.com/29495809/157685409-0db8e042-30bf-4aab-8d8a-12ed041b9da7.jpg)
+
+## Break Countdown
+![Eyesaver-1-2](https://user-images.githubusercontent.com/29495809/157687289-71f47dac-b0ae-48a3-b8a4-e3f4dc3c07a2.jpg)
+
